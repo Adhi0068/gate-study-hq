@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "GATE CSE 2027 Study HQ",
+  "short_name": "GATE Study HQ",
+  "description": "Offline-capable GATE CSE 2027 syllabus, PYQ, daily log and mock-test tracker.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fa",
+  "theme_color": "#132238",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
